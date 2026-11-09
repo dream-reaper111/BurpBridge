@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34558536/README.md)
 # BurpBridge# BurpBridge
 
 **Application security findings management and SIEM correlation**
